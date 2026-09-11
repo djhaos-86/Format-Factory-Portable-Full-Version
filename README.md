@@ -271,4 +271,4 @@ This repository serves as the official landing page for Format Factory Portable.
 **Get the most recent version of Format Factory Portable today!**
 
 ---
-**Last updated:** 2026-09-11 20:40:31 UTC
+**Last updated:** 2026-09-11 22:53:19 UTC
